@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @mehnoor11
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on making C++ projects
+- 📫 How to reach me : www.linkedin.com/in/nazima-nazir-549699233 {Linkedin}
+- 😄 Pronouns: She/Her
